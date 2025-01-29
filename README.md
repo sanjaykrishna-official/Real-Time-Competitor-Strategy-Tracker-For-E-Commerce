@@ -1,6 +1,8 @@
 # Real-Time-Competitor-Strategy-Tracker-For-E-Commerce
 
-## project overview
+## Project Overview
+
+Click [here](https://raw.githubusercontent.com/sanjaykrishna-official/Real-Time-Competitor-Strategy-Tracker-For-E-Commerce/main/Real-Time-Competitor-Strategy-Tracker-For-E-Commerce.mp4) to download the video.
 
 This project focuses on creating a real-time competitive intelligence tool for e-commerce businesses. It provides actionable insights by monitoring competitor pricing, discount strategies, and customer sentiment. The solution leverages:
 
